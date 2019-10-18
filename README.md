@@ -17,19 +17,6 @@ El objetivo del proyecto es entrenar un modelo de Supervised Machine Learning qu
 
 En la fase de entrenamiento los dos modelos que mejores métricas han arrojado han sido Gradient Boosting y Linear SVC, pero con unas cifras con margen para la mejora. La precisión de las predicciones de los artículos con los que posteriormente se contrastaron los modelos, los correspondientes al año 1996, arrojaron un 0.6, lo que confirma que todavía se puede afinar más el proceso, bien sea en la fase de procesamiento de los textos, como en la de elección de los hiperparametros.
 
-Métricas obtenidas con Gradient Boosting.
-
-![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/tree/master/output/gradient.png)
-
-
-Métricas obtenidas con Linear SVC.
-
-![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/tree/master/output/LinearSVC.png)
-
-
-Contraste de los modelos.
-
-![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/tree/master/output/modelos.png)
 
 ## Próximos pasos
 
