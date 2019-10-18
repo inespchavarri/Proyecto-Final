@@ -19,17 +19,17 @@ En la fase de entrenamiento los dos modelos que mejores métricas han arrojado h
 
 Métricas obtenidas con Gradient Boosting.
 
-![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/master/output/gradient.png)
+![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/tree/master/output/gradient.png)
 
 
 Métricas obtenidas con Linear SVC.
 
-![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/master/output/LinearSVC.png)
+![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/tree/master/output/LinearSVC.png)
 
 
 Contraste de los modelos.
 
-![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/master/output/modelos.png)
+![alt text](https://raw.githubusercontent.com/inespchavarri/Proyecto-Final/tree/master/output/modelos.png)
 
 ## Próximos pasos
 
