@@ -34,6 +34,7 @@ def main():
 
     y_pred = mnbc.predict(X)
 
+    
     print("\nArtículo: \n\n{}\n\nPredicción categoria: {} \nCategoría real: {}".format(texto, int(y_pred), y))
 
 
